@@ -1,3 +1,4 @@
 this file is for configuration
 some additional configuration 
 found a couple of some config values that are needed 
+configurations
